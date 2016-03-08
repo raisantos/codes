@@ -1,0 +1,17 @@
+package testaIdade;
+
+public class TestaIdade {
+
+	public static void main(String[] args) {
+		//imprime idade
+		int idade = 20;
+		
+		System.out.println(idade);
+		
+		//gera idade no ano que vem
+		int idadeNoAnoQueVem = idade +1;
+		
+		System.out.println(idadeNoAnoQueVem);
+	}
+
+}
